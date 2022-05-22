@@ -1,9 +1,11 @@
 obj/
 bin/
+packages/
 
 # Editor directories and files
 .project
 .idea
+.vs
 .vscode
 *.suo
 *.ntvs*
